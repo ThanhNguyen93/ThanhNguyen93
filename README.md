@@ -21,7 +21,7 @@ I work on clinical and EHR data: data analysis, predictive modeling, and shippin
 
 **[Osteoporosis Risk Classifier](https://thanhnguyen93.github.io)** — XGBoost on a 61K+ patient EHR dataset, ROC-AUC 0.833. Feature engineering from raw clinical records.
 
-**[VAERS Association Rule Mining](https://thanhnguyen93.github.io)** — Apriori over 17,574 COVID-19 adverse event reports, surfacing symptom co-occurrence patterns.
+**[VAERS Association Rule Mining](https://thanhnguyen93.github.io/projects/project-vaers.html)** — Apriori over 17,574 COVID-19 adverse event reports, surfacing symptom co-occurrence patterns.
 
 ### Contact
 
