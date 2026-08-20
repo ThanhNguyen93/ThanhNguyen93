@@ -1,4 +1,4 @@
-# Thanh Nguyen (Thanh Brown)
+# Thanh Brown (formerly Thanh Nguyen)
 
 Senior Data Analyst with 5+ years across academic medical centers — MedStar Health, Moffitt Cancer Center, Huntsman Cancer Institute.
 I work on clinical and EHR data: data analysis, predictive modeling, and shipping models into things people can actually use.
