@@ -19,7 +19,7 @@ I work on clinical and EHR data: data analysis, predictive modeling, and shippin
 
 **[Hiring Intelligence](https://hiring-intelligence.streamlit.app)** — Gradient boosting model for hiring outcome prediction, deployed live on Streamlit. [Repo](https://github.com/ThanhNguyen93/Hiring_Intelligence)
 
-**[Osteoporosis Risk Classifier](https://thanhnguyen93.github.io)** — XGBoost on a 61K+ patient EHR dataset, ROC-AUC 0.833. Feature engineering from raw clinical records.
+**[Osteoporosis Risk Classifier](https://github.com/ThanhNguyen93/osteoporosis_risk_classifier)** — Compared multiple ML classifiers for osteoporosis risk prediction using 61K+ matched EHR patients. Balanced classes still produced asymmetric case/control recall, prompting investigation of study design, feature structure, and temporal information.
 
 **[VAERS Association Rule Mining](https://thanhnguyen93.github.io/projects/project-vaers.html)** — Apriori over 17,574 COVID-19 adverse event reports, surfacing symptom co-occurrence patterns.
 
