@@ -17,7 +17,7 @@ I work on clinical and EHR data: data analysis, predictive modeling, and shippin
 
 ### Projects
 
-**[ISCVAM - Multi-Study Oncology Data Pipelines](https://thanhnguyen93.github.io/projects/project-iscvam.html)** — Built two containerized R pipelines and the Slurm orchestration behind a multi-study cancer analytics platform, automating ingestion, QC, and cell-type annotation across 198 studies (~6.3M cells).
+**[ISCVAM - Multi-Study Oncology Data Pipelines](https://thanhnguyen93.github.io/projects/project-iscvam.html)** — Built two R pipelines and the Slurm orchestration behind a multi-study cancer analytics platform, automating ingestion, QC, and cell-type annotation across 198 studies (~6.3M cells).
 
 **[Hiring Intelligence](https://hiring-intelligence.streamlit.app)** — Gradient boosting model for hiring outcome prediction, deployed live on Streamlit. [Repo](https://github.com/ThanhNguyen93/Hiring_Intelligence)
 
