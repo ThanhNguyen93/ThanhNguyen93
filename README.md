@@ -19,7 +19,7 @@ I work on clinical and EHR data: data analysis, predictive modeling, and shippin
 
 **[ISCVAM - Multi-Study Oncology Data Pipelines](https://thanhnguyen93.github.io/projects/project-iscvam.html)** — Built two R pipelines and the Slurm orchestration behind a multi-study cancer analytics platform, automating ingestion, QC, and cell-type annotation across 198 studies (~6.3M cells).
 
-**[Osteoporosis Risk Classifier](https://github.com/ThanhNguyen93/osteoporosis_risk_classifier)** — Compared multiple ML classifiers for osteoporosis risk prediction using 61K+ matched EHR patients. Balanced classes still produced asymmetric case/control recall, prompting investigation of study design, feature structure, and temporal information.
+**[Osteoporosis Risk Classifier](https://github.com/ThanhNguyen93/osteoporosis_risk_classifier)** — Balanced classes do not guarantee balanced predictions. On a perfectly balanced matched case-control study, every ML model family tested recalls controls more reliably than cases. The evidence so far points to heterogeneity among cases, not class imbalance or model choice.
 
 **[Hiring Intelligence](https://hiring-intelligence.streamlit.app)** — Gradient boosting model for hiring outcome prediction, deployed live on Streamlit. [Repo](https://github.com/ThanhNguyen93/Hiring_Intelligence)
 
